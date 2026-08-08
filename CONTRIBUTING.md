@@ -372,3 +372,8 @@ bazel build --config=dbg --per_file_copt=+tensorflow/core/kernels/identity_op.*@
 ```
 
 Note that the `--config=dbg` option is not officially supported.
+## Local Development
+
+Before submitting changes, make sure the modified files are reviewed
+carefully and that the changes follow the project's existing structure
+and contribution guidelines.

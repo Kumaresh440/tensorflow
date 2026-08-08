@@ -185,3 +185,8 @@ general, be batched to be fixed at the same time as a quarterly release. We
 credit reporters for identifying security issues, although we keep your name
 confidential if you request it. Please see Google Bug Hunters program website
 for more info.
+
+## Security Notes
+
+Please follow the project's security guidelines when reporting
+potential security issues.

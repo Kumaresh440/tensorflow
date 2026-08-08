@@ -166,3 +166,16 @@ Learn more about the
 ## License
 
 [Apache License 2.0](LICENSE)
+## Learning Notes
+
+This repository is being used to understand the structure of a large-scale
+open-source machine learning project and to practice Git and GitHub workflows.
+
+### Git Workflow
+
+The basic workflow used while working with this repository is:
+
+1. Make changes locally.
+2. Review the changes using Git.
+3. Commit the changes with a meaningful message.
+4. Push the commit to the remote repository.
